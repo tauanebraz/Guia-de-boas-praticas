@@ -1,4 +1,4 @@
-# # 📘 Guia Básico de Git e GitHub: Clonagem e Branches
+# 📘 Guia Básico de Git e GitHub: Clonagem e Branches
 ### 1. Acesse o repositório no GitHub
 Primeiro, abra o **GitHub** e acesse a organização ou seu perfil. Em seguida, vá até a lista de **repositórios** e escolha o repositório que deseja clonar.
 
